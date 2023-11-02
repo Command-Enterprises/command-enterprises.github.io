@@ -11,3 +11,5 @@ CommandEnterprises@programmer.net
 https://discord.gg/BwejDYd7pM
 - <img src="assets/other/x.png" width="25" height="25">  
 https://twitter.com/CmdEntOfficial
+
+<h1><center>Commander is in Development! Check out how the beta is going at commander.iamadeveloper.dev</center></h1>
